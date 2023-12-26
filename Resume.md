@@ -1,9 +1,10 @@
 # Baker
+(assets/img/baker.jpeg)
 
-### Education
+## Education
 Food Science, PhD
 
-### Work Experience
+## Work Experience
 Baker @ Chungyo Bread Store
 - make 15 batch of bread every day
 - cookies and cake
