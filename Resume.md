@@ -1,5 +1,5 @@
 # Baker
-(assets/img/baker.jpeg)
+![assets/img/baker.jpeg]
 
 ## Education
 Food Science, PhD
